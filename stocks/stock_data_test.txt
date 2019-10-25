@@ -1,0 +1,1784 @@
+stock data:
+  id = 103010
+  name = טיב טעם
+  price = 220.7
+stock data:
+  id = 106013
+  name = אביב ארלון
+  price = 271.8
+stock data:
+  id = 111013
+  name = קנאשור
+  price = 96.3
+stock data:
+  id = 126011
+  name = גזית גלוב
+  price = 3503.0
+stock data:
+  id = 127019
+  name = מבטח שמיר
+  price = 6813.0
+stock data:
+  id = 130013
+  name = זנלכל
+  price = 1508.0
+stock data:
+  id = 136010
+  name = להב
+  price = 190.0
+stock data:
+  id = 142018
+  name = תדאה
+  price = 1513.0
+stock data:
+  id = 149013
+  name = גולד
+  price = 11330.0
+stock data:
+  id = 150011
+  name = חירון
+  price = 169400.0
+stock data:
+  id = 155036
+  name = מנרב
+  price = 53860.0
+stock data:
+  id = 156018
+  name = מלם תים
+  price = 58500.0
+stock data:
+  id = 161018
+  name = וואן טכנולוגיות
+  price = 24050.0
+stock data:
+  id = 168013
+  name = נטו אחזקות
+  price = 30600.0
+stock data:
+  id = 169011
+  name = איי.אי מערכות
+  price = 23.3
+stock data:
+  id = 174011
+  name = אינטרגאמא
+  price = 8530.0
+stock data:
+  id = 175018
+  name = איביאי בית השק
+  price = 3509.0
+stock data:
+  id = 180018
+  name = אנגל שלמה
+  price = 4335.0
+stock data:
+  id = 198010
+  name = כלכלית ירושלים
+  price = 1597.0
+stock data:
+  id = 199018
+  name = פורסייט
+  price = 100.9
+stock data:
+  id = 200014
+  name = לוינסקי עופר
+  price = 52.9
+stock data:
+  id = 208017
+  name = נאוי
+  price = 2215.0
+stock data:
+  id = 209015
+  name = איילון
+  price = 2175.0
+stock data:
+  id = 216010
+  name = וויטסמוק
+  price = 44.1
+stock data:
+  id = 224014
+  name = כלל עסקי ביטוח
+  price = 5400.0
+stock data:
+  id = 226019
+  name = מבני תעשיה
+  price = 844.5
+stock data:
+  id = 230011
+  name = בזק
+  price = 228.3
+stock data:
+  id = 232017
+  name = ישראמקו     יהש
+  price = 60.0
+stock data:
+  id = 235010
+  name = בית הזהב
+  price = 1526.0
+stock data:
+  id = 238014
+  name = ממן
+  price = 585.0
+stock data:
+  id = 249011
+  name = שיח מדיקל
+  price = 76.4
+stock data:
+  id = 251017
+  name = אשטרום נכסים
+  price = 2290.0
+stock data:
+  id = 253013
+  name = מדטכניקה
+  price = 1595.0
+stock data:
+  id = 256016
+  name = פורמולה מערכות
+  price = 22580.0
+stock data:
+  id = 257014
+  name = מרחביה אחזקות
+  price = 27.5
+stock data:
+  id = 258012
+  name = תדיראן הולדינגס
+  price = 13800.0
+stock data:
+  id = 265017
+  name = אורביט
+  price = 834.4
+stock data:
+  id = 266015
+  name = רובוגרופ
+  price = 141.2
+stock data:
+  id = 271015
+  name = קו מנחה
+  price = 1488.0
+stock data:
+  id = 273011
+  name = נייס
+  price = 51850.0
+stock data:
+  id = 278010
+  name = פנטזי נטוורק
+  price = 213.8
+stock data:
+  id = 280016
+  name = קסטרו
+  price = 5247.0
+stock data:
+  id = 281014
+  name = כיל
+  price = 1633.0
+stock data:
+  id = 282012
+  name = אימקו
+  price = 1020.0
+stock data:
+  id = 286013
+  name = ברן
+  price = 522.7
+stock data:
+  id = 288019
+  name = סקופ
+  price = 8788.0
+stock data:
+  id = 290023
+  name = תעוזה
+  price = 43.8
+stock data:
+  id = 297010
+  name = אברות
+  price = 34.1
+stock data:
+  id = 299016
+  name = אראסאל
+  price = 204.0
+stock data:
+  id = 310011
+  name = ארקו החזקות
+  price = 144.0
+stock data:
+  id = 312017
+  name = עשות
+  price = 861.5
+stock data:
+  id = 313015
+  name = אספן גרופ
+  price = 814.0
+stock data:
+  id = 314013
+  name = דנאל
+  price = 26330.0
+stock data:
+  id = 315010
+  name = פמס
+  price = 12750.0
+stock data:
+  id = 318014
+  name = לידר השקעות
+  price = 59.0
+stock data:
+  id = 323014
+  name = מליסרון
+  price = 22100.0
+stock data:
+  id = 328013
+  name = פריורטק
+  price = 3364.0
+stock data:
+  id = 333013
+  name = פנינסולה
+  price = 305.1
+stock data:
+  id = 338012
+  name = מר
+  price = 715.1
+stock data:
+  id = 341016
+  name = שפע ימים
+  price = 36.4
+stock data:
+  id = 342014
+  name = צאם
+  price = 169.9
+stock data:
+  id = 345017
+  name = מודיעין   יהש
+  price = 923.9
+stock data:
+  id = 350017
+  name = ויז'ן סיגמא
+  price = 3888.0
+stock data:
+  id = 351015
+  name = חד
+  price = 1462.0
+stock data:
+  id = 354019
+  name = טלסיס
+  price = 7169.0
+stock data:
+  id = 363010
+  name = אפליי
+  price = 68.0
+stock data:
+  id = 365015
+  name = ספיר קורפ
+  price = 481.8
+stock data:
+  id = 366013
+  name = ארנה גרופ
+  price = 3.7
+stock data:
+  id = 368019
+  name = אלקטריאון
+  price = 9215.0
+stock data:
+  id = 371013
+  name = וילי פוד
+  price = 2941.0
+stock data:
+  id = 373019
+  name = אאורה
+  price = 234.7
+stock data:
+  id = 382010
+  name = אמת
+  price = 1356.0
+stock data:
+  id = 383018
+  name = אפיו אפריקה-ש
+  price = 176.0
+stock data:
+  id = 384016
+  name = חמת
+  price = 1059.0
+stock data:
+  id = 386011
+  name = קווינקו
+  price = 795.4
+stock data:
+  id = 387019
+  name = אלרוב נדלן
+  price = 15460.0
+stock data:
+  id = 389015
+  name = קופיקס גרופ
+  price = 425.3
+stock data:
+  id = 390013
+  name = אלוני חץ
+  price = 5125.0
+stock data:
+  id = 393017
+  name = ראלקו
+  price = 2386.0
+stock data:
+  id = 394015
+  name = רציו      יהש
+  price = 244.3
+stock data:
+  id = 397018
+  name = ניו הוריזון
+  price = 365.9
+stock data:
+  id = 399014
+  name = בריל
+  price = 563.4
+stock data:
+  id = 400010
+  name = דוניץ
+  price = 10930.0
+stock data:
+  id = 412015
+  name = פייטון
+  price = 4894.0
+stock data:
+  id = 413013
+  name = קשרי תעופה
+  price = 1027.0
+stock data:
+  id = 416016
+  name = וילאר
+  price = 13750.0
+stock data:
+  id = 421016
+  name = נתנאל גרופ
+  price = 570.0
+stock data:
+  id = 422014
+  name = אסאר אקורד
+  price = 4874.0
+stock data:
+  id = 424010
+  name = ענבר גרופ
+  price = 163.2
+stock data:
+  id = 425017
+  name = צרפתי
+  price = 1785.0
+stock data:
+  id = 431015
+  name = אייאיאס
+  price = 26220.0
+stock data:
+  id = 433011
+  name = מיקרומדיק
+  price = 41.8
+stock data:
+  id = 434019
+  name = ישראל קנדה
+  price = 674.0
+stock data:
+  id = 440016
+  name = כרמית
+  price = 1095.0
+stock data:
+  id = 442012
+  name = סיאי
+  price = 505.8
+stock data:
+  id = 444018
+  name = אביב בניה
+  price = 1419.0
+stock data:
+  id = 445015
+  name = מטריקס
+  price = 6300.0
+stock data:
+  id = 448019
+  name = גיבוי אחזקות
+  price = 2401.0
+stock data:
+  id = 454017
+  name = גאון קבוצה
+  price = 467.8
+stock data:
+  id = 456012
+  name = צירון
+  price = 161.1
+stock data:
+  id = 462010
+  name = טוגדר
+  price = 290.0
+stock data:
+  id = 473017
+  name = לוזון קבוצה
+  price = 27.3
+stock data:
+  id = 474015
+  name = אלביט מדקל טכ
+  price = 91.7
+stock data:
+  id = 475020
+  name = דלק קידוחים יהש
+  price = 876.6
+stock data:
+  id = 477018
+  name = טלדור
+  price = 1800.0
+stock data:
+  id = 485011
+  name = בונוס ביוגרופ
+  price = 43.2
+stock data:
+  id = 486027
+  name = וויי בוקס
+  price = 81.0
+stock data:
+  id = 494013
+  name = גו.די.אם-ש
+  price = 34.9
+stock data:
+  id = 505016
+  name = איידיאו
+  price = 9934.0
+stock data:
+  id = 506022
+  name = גבעות     יהש
+  price = 18.5
+stock data:
+  id = 507012
+  name = מיחשוב ישר קב
+  price = 14810.0
+stock data:
+  id = 522011
+  name = כפרית
+  price = 1570.0
+stock data:
+  id = 526012
+  name = רבד
+  price = 748.9
+stock data:
+  id = 530014
+  name = בירמן
+  price = 1454.0
+stock data:
+  id = 531012
+  name = בוני תיכון-ס
+  price = 398.0
+stock data:
+  id = 532010
+  name = גן שמואל
+  price = 3002.0
+stock data:
+  id = 536011
+  name = ברנד
+  price = 423.5
+stock data:
+  id = 539015
+  name = רוטשטיין
+  price = 1993.0
+stock data:
+  id = 543017
+  name = כנפיים
+  price = 1730.0
+stock data:
+  id = 544015
+  name = מידאס
+  price = 35.6
+stock data:
+  id = 550012
+  name = אסטיגי
+  price = 1707.0
+stock data:
+  id = 566018
+  name = מנורה מב החז
+  price = 5840.0
+stock data:
+  id = 573014
+  name = לוינשטין הנדסה
+  price = 20640.0
+stock data:
+  id = 576017
+  name = חברה לישראל
+  price = 72130.0
+stock data:
+  id = 578013
+  name = אפקון החזקות
+  price = 17670.0
+stock data:
+  id = 584011
+  name = ליבנטל
+  price = 1629.0
+stock data:
+  id = 585018
+  name = הראל השקעות
+  price = 2960.0
+stock data:
+  id = 587014
+  name = ארית תעשיות
+  price = 153.6
+stock data:
+  id = 589010
+  name = אמיליה פיתוח
+  price = 1397.0
+stock data:
+  id = 593038
+  name = בינלאומי
+  price = 9733.0
+stock data:
+  id = 599019
+  name = פי.אל.טי פיננס
+  price = 32.1
+stock data:
+  id = 604611
+  name = לאומי
+  price = 2512.0
+stock data:
+  id = 611012
+  name = אפריקה
+  price = 10.5
+stock data:
+  id = 612010
+  name = הכשרת הישוב
+  price = 3688.0
+stock data:
+  id = 613034
+  name = ישרס
+  price = 75520.0
+stock data:
+  id = 621011
+  name = קרור
+  price = 9699.0
+stock data:
+  id = 625012
+  name = על בד
+  price = 2425.0
+stock data:
+  id = 627034
+  name = דלתא
+  price = 8864.0
+stock data:
+  id = 629014
+  name = טבע
+  price = 2797.0
+stock data:
+  id = 632018
+  name = נייר חדרה
+  price = 17190.0
+stock data:
+  id = 634030
+  name = שמן תעשיות
+  price = 584.9
+stock data:
+  id = 639013
+  name = דיסקונט השקעות
+  price = 549.4
+stock data:
+  id = 642017
+  name = לפידות קפיטל
+  price = 1604.0
+stock data:
+  id = 643015
+  name = נפטא
+  price = 1978.0
+stock data:
+  id = 644013
+  name = פלרם
+  price = 1620.0
+stock data:
+  id = 654012
+  name = אמנת
+  price = 2195.0
+stock data:
+  id = 660019
+  name = ניסן
+  price = 1828.0
+stock data:
+  id = 662577
+  name = פועלים
+  price = 2723.0
+stock data:
+  id = 666016
+  name = "לוזון נדל""ן"
+  price = 27.4
+stock data:
+  id = 673012
+  name = אינטליקנה
+  price = 255.5
+stock data:
+  id = 675017
+  name = אברבוך
+  price = 2284.0
+stock data:
+  id = 686014
+  name = מהדרין
+  price = 14440.0
+stock data:
+  id = 691212
+  name = דיסקונט       א
+  price = 1609.0
+stock data:
+  id = 694034
+  name = אלקו
+  price = 10690.0
+stock data:
+  id = 695437
+  name = מזרחי טפחות
+  price = 8866.0
+stock data:
+  id = 699017
+  name = נכסים ובנין
+  price = 38200.0
+stock data:
+  id = 704015
+  name = יצוא
+  price = 2204.0
+stock data:
+  id = 711010
+  name = מוניציפל
+  price = 75850.0
+stock data:
+  id = 715011
+  name = אזורים
+  price = 658.0
+stock data:
+  id = 716019
+  name = מטעי הדר 1
+  price = 12580.0
+stock data:
+  id = 716035
+  name = מטעי הדר 5
+  price = 52320.0
+stock data:
+  id = 720011
+  name = אנלייט אנרגיה
+  price = 426.7
+stock data:
+  id = 722314
+  name = אגוד
+  price = 1672.0
+stock data:
+  id = 723007
+  name = נורסטאר
+  price = 6398.0
+stock data:
+  id = 726018
+  name = ירושלים
+  price = 835.3
+stock data:
+  id = 727016
+  name = פלסטו קרגל
+  price = 288.0
+stock data:
+  id = 730010
+  name = צור
+  price = 1310.0
+stock data:
+  id = 731018
+  name = ערד
+  price = 28500.0
+stock data:
+  id = 739037
+  name = אלקטרה
+  price = 114400.0
+stock data:
+  id = 744011
+  name = אלגומייזר
+  price = 308.8
+stock data:
+  id = 745018
+  name = פוליגון
+  price = 2937.0
+stock data:
+  id = 746016
+  name = שטראוס
+  price = 11040.0
+stock data:
+  id = 749077
+  name = אלרון
+  price = 514.2
+stock data:
+  id = 751032
+  name = ננו דיימנשן
+  price = 25.0
+stock data:
+  id = 753012
+  name = לודזיה
+  price = 2770.0
+stock data:
+  id = 755017
+  name = אקויטל
+  price = 10470.0
+stock data:
+  id = 756015
+  name = פטרוכימיים
+  price = 395.9
+stock data:
+  id = 759019
+  name = גב ים
+  price = 241100.0
+stock data:
+  id = 763011
+  name = פיבי
+  price = 11550.0
+stock data:
+  id = 765016
+  name = כיטוב פארמה
+  price = 266.4
+stock data:
+  id = 767012
+  name = הפניקס
+  price = 2192.0
+stock data:
+  id = 769026
+  name = רפק
+  price = 1609.0
+stock data:
+  id = 770016
+  name = דולומיט אחז-ש
+  price = 42.5
+stock data:
+  id = 771014
+  name = גבאי מניבים
+  price = 2853.0
+stock data:
+  id = 777037
+  name = שופרסל
+  price = 2515.0
+stock data:
+  id = 796011
+  name = תיא השקעות
+  price = 6893.0
+stock data:
+  id = 797035
+  name = קליל
+  price = 29280.0
+stock data:
+  id = 800011
+  name = אפריקה תעשיות
+  price = 451.0
+stock data:
+  id = 810010
+  name = כהן פיתוח
+  price = 7522.0
+stock data:
+  id = 813014
+  name = סנו
+  price = 21600.0
+stock data:
+  id = 822015
+  name = דן מלונות
+  price = 2247.0
+stock data:
+  id = 823013
+  name = חג'ג'
+  price = 1291.0
+stock data:
+  id = 824011
+  name = ויטלה קפיטל-ש
+  price = 73.3
+stock data:
+  id = 826016
+  name = לכיש
+  price = 445.6
+stock data:
+  id = 829010
+  name = דלק רכב
+  price = 1350.0
+stock data:
+  id = 1080324
+  name = המלט
+  price = 6778.0
+stock data:
+  id = 1080456
+  name = רימוני
+  price = 5597.0
+stock data:
+  id = 1080522
+  name = מן הגורן
+  price = 1799.0
+stock data:
+  id = 1080597
+  name = סאטקום מערכות
+  price = 94.4
+stock data:
+  id = 1080605
+  name = יונט קרדיט-ש
+  price = 4140.0
+stock data:
+  id = 1080613
+  name = אנליסט
+  price = 1912.0
+stock data:
+  id = 1080688
+  name = אינפימר
+  price = 1129.0
+stock data:
+  id = 1080720
+  name = אופקטרא
+  price = 218.0
+stock data:
+  id = 1080753
+  name = אילקס מדיקל
+  price = 7427.0
+stock data:
+  id = 1080837
+  name = שניב
+  price = 511.2
+stock data:
+  id = 1080928
+  name = אינטר תעשיות
+  price = 410.8
+stock data:
+  id = 1080985
+  name = ישרוטל
+  price = 5690.0
+stock data:
+  id = 1081009
+  name = רקח
+  price = 2177.0
+stock data:
+  id = 1081074
+  name = איסתא
+  price = 6981.0
+stock data:
+  id = 1081116
+  name = אלביט הדמיה
+  price = 321.7
+stock data:
+  id = 1081124
+  name = אלביט מערכות
+  price = 57340.0
+stock data:
+  id = 1081165
+  name = מגדל ביטוח
+  price = 369.6
+stock data:
+  id = 1081439
+  name = לודן
+  price = 604.8
+stock data:
+  id = 1081561
+  name = בית שמש
+  price = 13500.0
+stock data:
+  id = 1081603
+  name = פלסאון תעשיות
+  price = 15750.0
+stock data:
+  id = 1081686
+  name = סאמיט
+  price = 4528.0
+stock data:
+  id = 1081843
+  name = מיטב דש
+  price = 1384.0
+stock data:
+  id = 1081942
+  name = שיכון ובינוי
+  price = 1383.0
+stock data:
+  id = 1081983
+  name = גלילאו טק
+  price = 52.7
+stock data:
+  id = 1082007
+  name = שוהם ביזנס
+  price = 613.5
+stock data:
+  id = 1082114
+  name = אפולו פאוור
+  price = 143.6
+stock data:
+  id = 1082312
+  name = מג'יק
+  price = 3266.0
+stock data:
+  id = 1082346
+  name = וואיטסטון
+  price = 586.2
+stock data:
+  id = 1082353
+  name = סאני תקשורת
+  price = 175.2
+stock data:
+  id = 1082379
+  name = טאואר
+  price = 7995.0
+stock data:
+  id = 1082510
+  name = גילת
+  price = 2826.0
+stock data:
+  id = 1082585
+  name = תפרון
+  price = 443.6
+stock data:
+  id = 1082635
+  name = אלומיי
+  price = 4185.0
+stock data:
+  id = 1082726
+  name = תאת טכנו
+  price = 1765.0
+stock data:
+  id = 1082965
+  name = אודיוקודס
+  price = 6729.0
+stock data:
+  id = 1083377
+  name = טופ מערכות
+  price = 360.0
+stock data:
+  id = 1083419
+  name = טכנופלס ונצרס
+  price = 121.9
+stock data:
+  id = 1083443
+  name = אינטרנט זהב
+  price = 5723.0
+stock data:
+  id = 1083484
+  name = פרטנר
+  price = 1576.0
+stock data:
+  id = 1083633
+  name = אם.אר.פי
+  price = 32.9
+stock data:
+  id = 1083658
+  name = עילדב
+  price = 237.0
+stock data:
+  id = 1083831
+  name = יוניטרוניקס
+  price = 1253.0
+stock data:
+  id = 1083856
+  name = סייפ-טי גרופ
+  price = 111.4
+stock data:
+  id = 1083930
+  name = נקסט ג'ן-ש
+  price = 25.8
+stock data:
+  id = 1083955
+  name = קווליטאו
+  price = 2228.0
+stock data:
+  id = 1084003
+  name = אי.אל.די.
+  price = 226.2
+stock data:
+  id = 1084128
+  name = דלק קבוצה
+  price = 44840.0
+stock data:
+  id = 1084367
+  name = קנביט
+  price = 881.6
+stock data:
+  id = 1084433
+  name = ג'רוסלם השק-ש
+  price = 14.5
+stock data:
+  id = 1084482
+  name = פועלים איביאי
+  price = 1182.0
+stock data:
+  id = 1084557
+  name = נובה
+  price = 11630.0
+stock data:
+  id = 1084698
+  name = חילן
+  price = 14440.0
+stock data:
+  id = 1084953
+  name = סינאל
+  price = 4335.0
+stock data:
+  id = 1085208
+  name = קומפיוגן
+  price = 1442.0
+stock data:
+  id = 1085265
+  name = ארן
+  price = 1428.0
+stock data:
+  id = 1085497
+  name = אקס טי אל
+  price = 5.1
+stock data:
+  id = 1086230
+  name = או.אר.טי
+  price = 2978.0
+stock data:
+  id = 1087022
+  name = פוקס
+  price = 13460.0
+stock data:
+  id = 1087659
+  name = סאפיינס
+  price = 7028.0
+stock data:
+  id = 1087824
+  name = אל על
+  price = 127.7
+stock data:
+  id = 1087949
+  name = קרדן אן.וי.
+  price = 22.0
+stock data:
+  id = 1090117
+  name = ספאנטק
+  price = 648.4
+stock data:
+  id = 1090141
+  name = תדיר גן
+  price = 13.3
+stock data:
+  id = 1090315
+  name = דמרי
+  price = 9545.0
+stock data:
+  id = 1090364
+  name = אלספק
+  price = 295.0
+stock data:
+  id = 1090547
+  name = שלאג
+  price = 1043.0
+stock data:
+  id = 1090943
+  name = רם און
+  price = 1003.0
+stock data:
+  id = 1091065
+  name = מיטרוניקס
+  price = 3281.0
+stock data:
+  id = 1091248
+  name = לפידות חלץ יהש
+  price = 132.2
+stock data:
+  id = 1091354
+  name = אפי נכסים
+  price = 12460.0
+stock data:
+  id = 1091651
+  name = ארד
+  price = 5404.0
+stock data:
+  id = 1091685
+  name = פיסיבי טכנ
+  price = 485.6
+stock data:
+  id = 1091933
+  name = גולן פלסטיק
+  price = 621.6
+stock data:
+  id = 1092204
+  name = עמיר שיווק
+  price = 2883.0
+stock data:
+  id = 1092345
+  name = חלל תקשורת
+  price = 1215.0
+stock data:
+  id = 1092709
+  name = בי.ג'י.איי-ש
+  price = 64.0
+stock data:
+  id = 1092840
+  name = פלסטופיל-ש
+  price = 603.0
+stock data:
+  id = 1093202
+  name = דור אלון
+  price = 7700.0
+stock data:
+  id = 1093558
+  name = יוניבו
+  price = 252.0
+stock data:
+  id = 1094044
+  name = אלקטרה נדלן
+  price = 2342.0
+stock data:
+  id = 1094119
+  name = קמהדע
+  price = 1837.0
+stock data:
+  id = 1094168
+  name = מיי סייז
+  price = 159.6
+stock data:
+  id = 1094283
+  name = ברימאג
+  price = 1432.0
+stock data:
+  id = 1094473
+  name = כן פייט ביופרמה
+  price = 27.9
+stock data:
+  id = 1094515
+  name = ברם תעשיות
+  price = 292.3
+stock data:
+  id = 1094622
+  name = הלמן אלדובי השק
+  price = 539.3
+stock data:
+  id = 1094986
+  name = אופל בלאנס
+  price = 330.8
+stock data:
+  id = 1095223
+  name = ביולייט
+  price = 888.4
+stock data:
+  id = 1095264
+  name = קמטק
+  price = 3750.0
+stock data:
+  id = 1095405
+  name = הדסית ביו
+  price = 444.8
+stock data:
+  id = 1095785
+  name = נקסטקום
+  price = 469.9
+stock data:
+  id = 1095819
+  name = פריון נטוורק
+  price = 1841.0
+stock data:
+  id = 1095835
+  name = ארפורט סיטי
+  price = 6694.0
+stock data:
+  id = 1095892
+  name = גניגר
+  price = 1722.0
+stock data:
+  id = 1096007
+  name = קנזון
+  price = 1023.0
+stock data:
+  id = 1096049
+  name = ביו ויו
+  price = 276.9
+stock data:
+  id = 1096106
+  name = אטראו שוקי הון
+  price = 5710.0
+stock data:
+  id = 1096148
+  name = גולף
+  price = 274.8
+stock data:
+  id = 1096171
+  name = מדיגוס
+  price = 32.1
+stock data:
+  id = 1096676
+  name = דורסל
+  price = 1408.0
+stock data:
+  id = 1096890
+  name = פארמוקן
+  price = 225.6
+stock data:
+  id = 1097054
+  name = איי.סי.בי
+  price = 48.1
+stock data:
+  id = 1097146
+  name = קפיטל פוינט
+  price = 41.5
+stock data:
+  id = 1097229
+  name = ב.יאיר
+  price = 1805.0
+stock data:
+  id = 1097260
+  name = ביג
+  price = 32480.0
+stock data:
+  id = 1097278
+  name = אמות
+  price = 2528.0
+stock data:
+  id = 1097344
+  name = ספרינג
+  price = 507.4
+stock data:
+  id = 1097948
+  name = אפריקה מגורים
+  price = 9900.0
+stock data:
+  id = 1098565
+  name = רבוע נדלן
+  price = 17810.0
+stock data:
+  id = 1098755
+  name = סאנפלאואר
+  price = 619.8
+stock data:
+  id = 1098920
+  name = ריט 1
+  price = 2288.0
+stock data:
+  id = 1099571
+  name = קסניה
+  price = 129.9
+stock data:
+  id = 1099654
+  name = אלוט
+  price = 2667.0
+stock data:
+  id = 1099761
+  name = פטרוטקס יהש
+  price = 20.1
+stock data:
+  id = 1099787
+  name = מיקרונט
+  price = 26.9
+stock data:
+  id = 1100007
+  name = פז נפט
+  price = 52980.0
+stock data:
+  id = 1100718
+  name = בריינסוויי
+  price = 1516.0
+stock data:
+  id = 1100957
+  name = אבגול
+  price = 314.8
+stock data:
+  id = 1101021
+  name = אנדימד
+  price = 248.0
+stock data:
+  id = 1101450
+  name = אליום מדיקל
+  price = 50.3
+stock data:
+  id = 1101518
+  name = ביוליין
+  price = 66.7
+stock data:
+  id = 1101534
+  name = סלקום
+  price = 909.9
+stock data:
+  id = 1101666
+  name = בבילון
+  price = 160.9
+stock data:
+  id = 1102128
+  name = פרשקובסקי
+  price = 5555.0
+stock data:
+  id = 1102219
+  name = פרידנזון
+  price = 6883.0
+stock data:
+  id = 1102235
+  name = סולגרין
+  price = 1493.0
+stock data:
+  id = 1102458
+  name = איתמר
+  price = 100.9
+stock data:
+  id = 1102532
+  name = חנן מור
+  price = 2709.0
+stock data:
+  id = 1103506
+  name = אוריין
+  price = 1955.0
+stock data:
+  id = 1103571
+  name = שנפ
+  price = 1059.0
+stock data:
+  id = 1103852
+  name = די.אן.איי ביומד
+  price = 16.2
+stock data:
+  id = 1103878
+  name = רבל
+  price = 784.0
+stock data:
+  id = 1104058
+  name = צמח המרמן
+  price = 1713.0
+stock data:
+  id = 1104249
+  name = רמי לוי
+  price = 19670.0
+stock data:
+  id = 1104280
+  name = כלל ביוטכנו
+  price = 165.9
+stock data:
+  id = 1104363
+  name = הרודיום השק
+  price = 373.6
+stock data:
+  id = 1104488
+  name = מגה אור
+  price = 8151.0
+stock data:
+  id = 1104496
+  name = אורד
+  price = 54.7
+stock data:
+  id = 1104744
+  name = גאון אחזקות
+  price = 4300.0
+stock data:
+  id = 1104785
+  name = חממה סחר
+  price = 275.9
+stock data:
+  id = 1104868
+  name = אקסלנז
+  price = 239.8
+stock data:
+  id = 1104959
+  name = המשביר 365
+  price = 57.0
+stock data:
+  id = 1105022
+  name = תיגבור
+  price = 1360.0
+stock data:
+  id = 1105055
+  name = אבוג'ן
+  price = 556.3
+stock data:
+  id = 1105097
+  name = נטו מלינדה
+  price = 4949.0
+stock data:
+  id = 1105139
+  name = מובייל מקס-ש
+  price = 174.7
+stock data:
+  id = 1105162
+  name = אדרי-אל
+  price = 108.1
+stock data:
+  id = 1105196
+  name = מישורים
+  price = 940.8
+stock data:
+  id = 1105907
+  name = ביומדיקו-ש
+  price = 3414.0
+stock data:
+  id = 1106376
+  name = אינטרקיור
+  price = 435.6
+stock data:
+  id = 1106749
+  name = מצלאוי
+  price = 513.9
+stock data:
+  id = 1106806
+  name = קמן קפיטל-ש
+  price = 420.0
+stock data:
+  id = 1107663
+  name = בי קומיונקיישנס
+  price = 438.4
+stock data:
+  id = 1108638
+  name = מירלנד
+  price = 21.3
+stock data:
+  id = 1109644
+  name = סלע נדלן
+  price = 940.0
+stock data:
+  id = 1109917
+  name = פלאזה סנטר -ס
+  price = 132.0
+stock data:
+  id = 1109966
+  name = ויתניה
+  price = 2047.0
+stock data:
+  id = 1116177
+  name = דקמא קפיטל
+  price = 57.7
+stock data:
+  id = 1117688
+  name = אלון גז
+  price = 2041.0
+stock data:
+  id = 1118116
+  name = קאנומד-ש
+  price = 103.9
+stock data:
+  id = 1118447
+  name = קרדן נדלן
+  price = 224.2
+stock data:
+  id = 1119080
+  name = לוינשטין נכסים
+  price = 8775.0
+stock data:
+  id = 1119478
+  name = עזריאלי קבוצה
+  price = 27390.0
+stock data:
+  id = 1119833
+  name = גלוב אקספ יהש
+  price = 234.5
+stock data:
+  id = 1119924
+  name = הזדמנות יהש
+  price = 96.1
+stock data:
+  id = 1120161
+  name = ערך פיננסים
+  price = 3395.0
+stock data:
+  id = 1120609
+  name = פרוטליקס
+  price = 85.0
+stock data:
+  id = 1121474
+  name = הכשרה התחדשות
+  price = 138.9
+stock data:
+  id = 1121607
+  name = בראק אן וי
+  price = 41660.0
+stock data:
+  id = 1121730
+  name = פלוריסטם
+  price = 1315.0
+stock data:
+  id = 1122381
+  name = רדהיל
+  price = 245.0
+stock data:
+  id = 1122415
+  name = אייסקיור מדיקל
+  price = 56.4
+stock data:
+  id = 1122654
+  name = מדיוי
+  price = 1702.0
+stock data:
+  id = 1122688
+  name = ג'י.אף.סי-ס
+  price = 930.0
+stock data:
+  id = 1123017
+  name = לייבפרסון
+  price = 13340.0
+stock data:
+  id = 1123355
+  name = אנרג'יקס
+  price = 895.5
+stock data:
+  id = 1123777
+  name = ויקטורי
+  price = 4495.0
+stock data:
+  id = 1123850
+  name = קרסו
+  price = 1740.0
+stock data:
+  id = 1125012
+  name = שמן נפט וגז-ש
+  price = 139.6
+stock data:
+  id = 1126226
+  name = אפ.סי ריאלטי-ס
+  price = 139.3
+stock data:
+  id = 1128461
+  name = קדימהסטם
+  price = 52.7
+stock data:
+  id = 1129444
+  name = מנדלסוןתשת
+  price = 715.0
+stock data:
+  id = 1129451
+  name = סומוטו
+  price = 141.7
+stock data:
+  id = 1129493
+  name = דלק תמלוגים
+  price = 926.9
+stock data:
+  id = 1129501
+  name = איידיאיי ביטוח
+  price = 13500.0
+stock data:
+  id = 1129543
+  name = אופקו הלת'
+  price = 746.9
+stock data:
+  id = 1130699
+  name = פריגו
+  price = 19190.0
+stock data:
+  id = 1131523
+  name = מגדלי תיכון
+  price = 966.9
+stock data:
+  id = 1131556
+  name = סקייליין
+  price = 2966.0
+stock data:
+  id = 1131697
+  name = מטומי
+  price = 9.9
+stock data:
+  id = 1132315
+  name = אשטרום קבוצה
+  price = 3920.0
+stock data:
+  id = 1132356
+  name = אינרום
+  price = 1377.0
+stock data:
+  id = 1133875
+  name = שפיר הנדסה
+  price = 1892.0
+stock data:
+  id = 1134139
+  name = קנון
+  price = 7783.0
+stock data:
+  id = 1134402
+  name = אורמת טכנו
+  price = 27290.0
+stock data:
+  id = 1135516
+  name = אופטיבייס
+  price = 4379.0
+stock data:
+  id = 1135706
+  name = אורון קבוצה
+  price = 274.2
+stock data:
+  id = 1136365
+  name = ליניאג תרפיוטיק
+  price = 348.6
+stock data:
+  id = 1137256
+  name = אביליטי
+  price = 187.5
+stock data:
+  id = 1138379
+  name = שגריר
+  price = 1388.0
+stock data:
+  id = 1138676
+  name = וונטייז
+  price = 18.0
+stock data:
+  id = 1139195
+  name = מגוריט
+  price = 85.1
+stock data:
+  id = 1139617
+  name = אוברסיז
+  price = 370.3
+stock data:
+  id = 1139864
+  name = רציו פטרול  יהש
+  price = 352.1
+stock data:
+  id = 1139955
+  name = מדיפאואר
+  price = 509.4
+stock data:
+  id = 1140151
+  name = נובולוג
+  price = 162.3
+stock data:
+  id = 1140243
+  name = מנרב פרויקטים
+  price = 636.2
+stock data:
+  id = 1140573
+  name = מניבים ריט
+  price = 201.4
+stock data:
+  id = 1140946
+  name = לסיכו
+  price = 444.0
+stock data:
+  id = 1140953
+  name = טלרד נטוורקס
+  price = 101.2
+stock data:
+  id = 1141316
+  name = גלובל כנפיים
+  price = 178.3
+stock data:
+  id = 1141324
+  name = אורמד פארמ
+  price = 1127.0
+stock data:
+  id = 1141357
+  name = תמר פטרוליום
+  price = 968.4
+stock data:
+  id = 1141464
+  name = מור השקעות
+  price = 555.8
+stock data:
+  id = 1141530
+  name = ברנמילר
+  price = 300.6
+stock data:
+  id = 1141571
+  name = או פי סי אנרגיה
+  price = 3139.0
+stock data:
+  id = 1141969
+  name = נאוויטס פטר יהש
+  price = 1361.0
+stock data:
+  id = 1142306
+  name = סים קומרשייל-ס
+  price = 8814.0
+stock data:
+  id = 1142355
+  name = סים בכורה  סד L
+  price = 9850.0
+stock data:
+  id = 1142405
+  name = פננטפארק
+  price = 3858.0
+stock data:
+  id = 1142421
+  name = יעקובי קבוצה
+  price = 79.2
+stock data:
+  id = 1142454
+  name = אלמור חשמל
+  price = 706.6
+stock data:
+  id = 1142538
+  name = איביאי טכ עילית
+  price = 78.5
+stock data:
+  id = 1142587
+  name = הולמס פלייס
+  price = 418.0
+stock data:
+  id = 1143148
+  name = מדלי
+  price = 746.0
+stock data:
+  id = 1143429
+  name = פתאל החזקות
+  price = 55460.0
+stock data:
+  id = 1143502
+  name = מכון חקר אנטרנט
+  price = 80.8
+stock data:
+  id = 1143619
+  name = רני צים
+  price = 266.6
+stock data:
+  id = 1143643
+  name = עדיקה סטייל
+  price = 408.5
+stock data:
+  id = 1144781
+  name = ג'י.פי גלובל
+  price = 736.4
+stock data:
+  id = 1147487
+  name = גלוברנדס
+  price = 35560.0
+stock data:
+  id = 1147685
+  name = כלל משקאות
+  price = 4585.0
+stock data:
+  id = 1147750
+  name = רותם אנרגיה יהש
+  price = 84.7
+stock data:
+  id = 1155019
+  name = איי.אפ.אפ
+  price = 41680.0
+stock data:
+  id = 1155290
+  name = אנרג'יאן
+  price = 4376.0
+stock data:
+  id = 1156280
+  name = ג'י וואן
+  price = 746.4
+stock data:
+  id = 1156926
+  name = ג'נריישן קפיטל
+  price = 92.4
+stock data:
+  id = 1157114
+  name = יוטרון
+  price = 1256.0
+stock data:
+  id = 1157403
+  name = ישראכרט
+  price = 1355.0
+stock data:
+  id = 1157833
+  name = פרשמרקט
+  price = 813.4
+stock data:
+  id = 1158161
+  name = שירותי בנק אוטו
+  price = 815.2
+stock data:
+  id = 1158823
+  name = באטמ
+  price = 184.1
+stock data:
+  id = 1158997
+  name = אנלייבקס
+  price = 2986.0
+stock data:
+  id = 1159029
+  name = הבורסה לניע בתא
+  price = 1278.0
+stock data:
+  id = 1159037
+  name = אלטשולר שחם גמל
+  price = 926.0
+stock data:
+  id = 1160829
+  name = פוורפליט
+  price = 2095.0
+stock data:
+  id = 1210152
+  name = קרדן ישראל
+  price = 178.7
+stock data:
+  id = 1820083
+  name = אדגר
+  price = 870.0
+stock data:
+  id = 2590248
+  name = בזן
+  price = 177.6
+stock data:
+  id = 5010129
+  name = אלקטרה צריכה
+  price = 5920.0
+stock data:
+  id = 5550157
+  name = סאני אלקטרוניקה
+  price = 266.6

@@ -1,0 +1,48 @@
+row 12 חודשים 21.59
+1-2- -ח-ו-ד-ש-י-ם-
+first column >12 חודשים<
+second column >21.59<
+found match 12 <module 're' from 'C:\\Python36\\lib\\re.py'>
+row שנתיים 105.27
+ש-נ-ת-י-י-ם-
+first column >שנתיים<
+second column >105.27<
+row 3 שנים 166.06
+3- -ש-נ-י-ם-
+first column >3 שנים<
+second column >166.06<
+found match 3 <module 're' from 'C:\\Python36\\lib\\re.py'>
+row 5 שנים 24.8
+5- -ש-נ-י-ם-
+first column >5 שנים<
+second column >24.8<
+found match 5 <module 're' from 'C:\\Python36\\lib\\re.py'>
+row תשואה 2018 19.76
+ת-ש-ו-א-ה- -2-0-1-8-
+first column >תשואה 2018<
+second column >19.76<
+found match 2018 <module 're' from 'C:\\Python36\\lib\\re.py'>
+20 is in
+row תשואה 2017 124.38
+ת-ש-ו-א-ה- -2-0-1-7-
+first column >תשואה 2017<
+second column >124.38<
+found match 2017 <module 're' from 'C:\\Python36\\lib\\re.py'>
+20 is in
+row תשואה 2016 -37.92
+ת-ש-ו-א-ה- -2-0-1-6-
+first column >תשואה 2016<
+second column >-37.92<
+found match 2016 <module 're' from 'C:\\Python36\\lib\\re.py'>
+20 is in
+row תשואה 2015 -46.83
+ת-ש-ו-א-ה- -2-0-1-5-
+first column >תשואה 2015<
+second column >-46.83<
+found match 2015 <module 're' from 'C:\\Python36\\lib\\re.py'>
+20 is in
+row מרחק לשיא 12 חודשים 16.17
+מ-ר-ח-ק- -ל-ש-י-א- -1-2- -ח-ו-ד-ש-י-ם-
+first column >מרחק לשיא 12 חודשים<
+second column >16.17<
+found match 12 <module 're' from 'C:\\Python36\\lib\\re.py'>
